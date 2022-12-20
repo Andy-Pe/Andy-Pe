@@ -1,16 +1,12 @@
-### Hi there 👋
+### Привет 👋
+Я Петров Андрей, junior тестировщик программного обеспечния.
+### Сертификаты Нетологии
+- [Ручное тестирование веб-приложений](https://netology.ru/backend/api/user/programs/30367/pdf_certificate)
+- [Git - система контроля версий](https://netology.ru/backend/api/user/programs/30037/pdf_certificate)
+- [Java для тестировщиков](https://netology.ru/backend/api/user/programs/30385/pdf_certificate)
 
-<!--
-**Andy-Pe/Andy-Pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Обо мне
+- 🌱 В данный момент я изучаю автоматизированнное тестирование на Java
+- 👨‍🎓 Командный [проект](https://github.com/Andy-Pe/TeamProject-Petrov_Gorokhov) по Java
+- 📫 Как со мной связаться: [Follow](https://andrey-petrov.taplink.ws/)
+- ⚡ Мое [резюме](https://docs.google.com/document/d/1bOUbQJEaBdMbQTYIyghLk62W5uPW67XwFql56fyf324/edit#)
