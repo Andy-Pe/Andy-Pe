@@ -12,9 +12,9 @@
 - 👨‍🎓 Учебный [проект](https://github.com/Andy-Pe/TeamProject-Petrov_Gorokhov) по Java 
 
 ### Сертификаты Нетологии
-- [Ручное тестирование веб-приложений](https://netology.ru/backend/api/user/programs/30367/pdf_certificate)
-- [Git - система контроля версий](https://netology.ru/backend/api/user/programs/30037/pdf_certificate)
-- [Java для тестировщиков](https://netology.ru/backend/api/user/programs/30385/pdf_certificate)
+- [Ручное тестирование веб-приложений](https://github.com/Andy-Pe/Andy-Pe/blob/main/Manual%20web%20application%20testing.pdf)
+- [Git - система контроля версий](https://github.com/Andy-Pe/Andy-Pe/blob/main/Git.pdf)
+- [Java для тестировщиков](https://github.com/Andy-Pe/Andy-Pe/blob/main/Java%20for%20Testers.pdf)
 
 ### Обо мне
 - 🌱 В данный момент я изучаю автоматизированнное тестирование на Java
