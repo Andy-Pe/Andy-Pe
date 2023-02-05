@@ -15,6 +15,7 @@
 - [Ручное тестирование веб-приложений](https://github.com/Andy-Pe/Andy-Pe/blob/main/Manual%20web%20application%20testing.pdf)
 - [Git - система контроля версий](https://github.com/Andy-Pe/Andy-Pe/blob/main/Git.pdf)
 - [Java для тестировщиков](https://github.com/Andy-Pe/Andy-Pe/blob/main/Java%20for%20Testers.pdf)
+- [Автоматизированное тестирование](https://github.com/Andy-Pe/Andy-Pe/blob/main/Automated%20Testing.pdf)
 
 ### Обо мне
 - 🌱 В данный момент я изучаю автоматизированнное тестирование на Java
