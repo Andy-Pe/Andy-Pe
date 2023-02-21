@@ -16,6 +16,7 @@
 - [Git - система контроля версий](https://github.com/Andy-Pe/Andy-Pe/blob/main/Git.pdf)
 - [Java для тестировщиков](https://github.com/Andy-Pe/Andy-Pe/blob/main/Java%20for%20Testers.pdf)
 - [Автоматизированное тестирование](https://github.com/Andy-Pe/Andy-Pe/blob/main/Automated%20Testing.pdf)
+- [HTML и CSS для тестировщиков](https://github.com/Andy-Pe/Andy-Pe/blob/main/HTML%20%26%20CSS%20for%20testers.pdf)
 
 ### Обо мне
 - 🌱 В данный момент я изучаю автоматизированнное тестирование на Java
