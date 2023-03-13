@@ -10,7 +10,10 @@
 - Понимание жизненного цикла тестирования и разработки ПО
 - 👨‍🎓 Учебный [проект](https://docs.google.com/spreadsheets/d/1MI97uP1Y5FtxhtI-DZlockXpW5pEJ-bEoEogtIeN3oc/edit#gid=0) по ручному тестированию веб-приложений
 - 👨‍🎓 Учебный [проект](https://github.com/Andy-Pe/TeamProject-Petrov_Gorokhov) по Java 
+- 👨‍🎓 Дипломный [проект](https://github.com/Andy-Pe/Diploma-project) по профессии Тестировщик ПО
 
+### Сертификат об окончании обучения
+- [Тестировщик ПО](https://github.com/Andy-Pe/Andy-Pe/blob/main/Software%20tester.pdf)
 ### Сертификаты Нетологии
 - [Ручное тестирование веб-приложений](https://github.com/Andy-Pe/Andy-Pe/blob/main/Manual%20web%20application%20testing.pdf)
 - [Git - система контроля версий](https://github.com/Andy-Pe/Andy-Pe/blob/main/Git.pdf)
