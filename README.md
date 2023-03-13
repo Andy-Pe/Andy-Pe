@@ -23,4 +23,4 @@
 
 ### Обо мне
 - 📫 Как со мной связаться: [Follow](https://andrey-petrov.taplink.ws/)
-- ⚡ Мое [резюме](httpsУ://docs.google.com/document/d/1bOUbQJEaBdMbQTYIyghLk62W5uPW67XwFql56fyf324/edit#)
+- ⚡ Мое [резюме](https://docs.google.com/document/d/1bOUbQJEaBdMbQTYIyghLk62W5uPW67XwFql56fyf324/edit#)
